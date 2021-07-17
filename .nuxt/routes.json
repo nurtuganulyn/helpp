@@ -1,0 +1,72 @@
+[
+  {
+    "name": "addHelp",
+    "path": "/addHelp",
+    "component": "C:\\\\Users\\\\nurtu\\\\Desktop\\\\sw073\\\\pages\\\\addHelp.vue",
+    "chunkName": "pages/addHelp",
+    "_name": "_02edac73"
+  },
+  {
+    "name": "addHelp2",
+    "path": "/addHelp2",
+    "component": "C:\\\\Users\\\\nurtu\\\\Desktop\\\\sw073\\\\pages\\\\addHelp2.vue",
+    "chunkName": "pages/addHelp2",
+    "_name": "_5adf8b4f"
+  },
+  {
+    "name": "final",
+    "path": "/final",
+    "component": "C:\\\\Users\\\\nurtu\\\\Desktop\\\\sw073\\\\pages\\\\final.vue",
+    "chunkName": "pages/final",
+    "_name": "_fdc85ab2"
+  },
+  {
+    "name": "help",
+    "path": "/help",
+    "component": "C:\\\\Users\\\\nurtu\\\\Desktop\\\\sw073\\\\pages\\\\help.vue",
+    "chunkName": "pages/help",
+    "_name": "_57504ec0"
+  },
+  {
+    "name": "help2",
+    "path": "/help2",
+    "component": "C:\\\\Users\\\\nurtu\\\\Desktop\\\\sw073\\\\pages\\\\help2.vue",
+    "chunkName": "pages/help2",
+    "_name": "_928a367c"
+  },
+  {
+    "name": "helpFInal",
+    "path": "/helpFInal",
+    "component": "C:\\\\Users\\\\nurtu\\\\Desktop\\\\sw073\\\\pages\\\\helpFInal.vue",
+    "chunkName": "pages/helpFInal",
+    "_name": "_2295ac06"
+  },
+  {
+    "name": "helpNoReg",
+    "path": "/helpNoReg",
+    "component": "C:\\\\Users\\\\nurtu\\\\Desktop\\\\sw073\\\\pages\\\\helpNoReg.vue",
+    "chunkName": "pages/helpNoReg",
+    "_name": "_6d843f03"
+  },
+  {
+    "name": "main",
+    "path": "/main",
+    "component": "C:\\\\Users\\\\nurtu\\\\Desktop\\\\sw073\\\\pages\\\\main.vue",
+    "chunkName": "pages/main",
+    "_name": "_02ea1318"
+  },
+  {
+    "name": "registration",
+    "path": "/registration",
+    "component": "C:\\\\Users\\\\nurtu\\\\Desktop\\\\sw073\\\\pages\\\\registration.vue",
+    "chunkName": "pages/registration",
+    "_name": "_19bd3f18"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\nurtu\\\\Desktop\\\\sw073\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3bcd2c03"
+  }
+]
